@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		22043C3D26FC20A000BF7B91 /* assign3g.gif in Resources */ = {isa = PBXBuildFile; fileRef = 22043C3C26FC20A000BF7B91 /* assign3g.gif */; };
 		22043C3F2702B65800BF7B91 /* TweetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22043C3E2702B65800BF7B91 /* TweetViewController.swift */; };
-		22043C412702D2AD00BF7B91 /* assign4.gif in Resources */ = {isa = PBXBuildFile; fileRef = 22043C402702D2AD00BF7B91 /* assign4.gif */; };
+		22043C432702D3AD00BF7B91 /* assign4.gif in Resources */ = {isa = PBXBuildFile; fileRef = 22043C422702D3AD00BF7B91 /* assign4.gif */; };
 		221C0B8926F9B6FF007BF33D /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221C0B8826F9B6FF007BF33D /* LoginViewController.swift */; };
 		221C0B8B26F9BBA4007BF33D /* HomeTableViewoControllerTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221C0B8A26F9BBA4007BF33D /* HomeTableViewoControllerTableViewController.swift */; };
 		221C0B8D26F9C448007BF33D /* TweetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221C0B8C26F9C448007BF33D /* TweetCell.swift */; };
@@ -24,7 +24,7 @@
 /* Begin PBXFileReference section */
 		22043C3C26FC20A000BF7B91 /* assign3g.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = assign3g.gif; sourceTree = "<group>"; };
 		22043C3E2702B65800BF7B91 /* TweetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetViewController.swift; sourceTree = "<group>"; };
-		22043C402702D2AD00BF7B91 /* assign4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = assign4.gif; path = ../../../assign4.gif; sourceTree = "<group>"; };
+		22043C422702D3AD00BF7B91 /* assign4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = assign4.gif; sourceTree = "<group>"; };
 		221C0B8826F9B6FF007BF33D /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		221C0B8A26F9BBA4007BF33D /* HomeTableViewoControllerTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewoControllerTableViewController.swift; sourceTree = "<group>"; };
 		221C0B8C26F9C448007BF33D /* TweetCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCell.swift; sourceTree = "<group>"; };
@@ -83,7 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				22043C3C26FC20A000BF7B91 /* assign3g.gif */,
-				22043C402702D2AD00BF7B91 /* assign4.gif */,
+				22043C422702D3AD00BF7B91 /* assign4.gif */,
 				6EBCF54D21E71F9400451C03 /* Launch Screen.storyboard */,
 				6EBCF52921DF07FC00451C03 /* Main.storyboard */,
 				6EBCF54321E047A500451C03 /* TwitterAPICaller.swift */,
@@ -170,7 +170,7 @@
 				6EBCF54E21E71F9400451C03 /* Launch Screen.storyboard in Resources */,
 				37D29B8621F90E3400984A88 /* Assets.xcassets in Resources */,
 				6EBCF52B21DF07FC00451C03 /* Main.storyboard in Resources */,
-				22043C412702D2AD00BF7B91 /* assign4.gif in Resources */,
+				22043C432702D3AD00BF7B91 /* assign4.gif in Resources */,
 				22043C3D26FC20A000BF7B91 /* assign3g.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
